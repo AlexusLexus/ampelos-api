@@ -1,5 +1,4 @@
 status up,
 version 1000,
 hotfix_version 1001,
-emergency_message true,
-message_content test;;тест 
+event U00

@@ -1,4 +1,1 @@
-status up,
-version 1000,
-hotfix 1001,
-event U00
+status up,version 1000,hotfix 1001,event U00

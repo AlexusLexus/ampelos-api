@@ -1,5 +1,7 @@
 {
-	"status":"up",
-	"current_version":1000,
-	"hotfix_version":1001
+
+	"status": "up",
+	"current_version": 1000,
+	"hotfix_version": 1001
+	
 }
